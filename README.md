@@ -69,8 +69,8 @@ A customer requests a car model “Tesla Model 3” from the Service Catalog.
 ---
 
 ## 👩‍💼 Author
-**Ragavi**  
-🎓 *B.E. – Electrical and Electronics Engineering*  
+**Akhilandeswari**  
+🎓 *B.Tech – Electrical and Electronics Engineering*  
 💼 *Automated Car Catalog System for Enhanced Showroom Management*  
 📍 *Tirupati, Andhra Pradesh*  
 
